@@ -1,4 +1,4 @@
-# SearchSongs
+# Search Songs
 >  Find every song from your favourite musician.
 
 [![Swift Version][swift-image]][swift-url]
@@ -10,7 +10,7 @@
 <img src="Images/screenshot.png" height=50% width=50%>
 
 ## Features
-[x] iTunes API
+- [x] iTunes API
 
 ## Requirements
 
